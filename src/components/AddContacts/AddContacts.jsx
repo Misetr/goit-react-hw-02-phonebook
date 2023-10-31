@@ -49,4 +49,5 @@ AddContacts.propTypes = {
   addContact: PropTypes.func,
 };
 
-export default AddContacts;
+export default AddContacts;  //fix page
+
