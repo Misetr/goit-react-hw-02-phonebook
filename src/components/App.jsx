@@ -18,7 +18,7 @@ class App extends React.Component {
   };
 
   handleAddContact = ({ name, number }) => {
-    console.log(name, number);
+    // console.log(name, number);
     const contact = {
       name,
       id: nanoid(),
